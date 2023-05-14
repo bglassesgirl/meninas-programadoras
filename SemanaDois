@@ -1,0 +1,25 @@
+//par impar
+
+numero = int(input())
+if numero % 2 == 0:
+  print('S')
+else:
+  print('N')
+  
+  
+  
+//bandeira do brasil
+cor = input()
+
+if cor == 'azul':
+   print ('circunferência')
+elif cor == 'amarelo':
+  print('losango')
+elif cor == 'branco':
+   print ('faixa')
+elif cor == 'verde':
+  print('retângulo')
+else:
+  print('não tem essa cor')
+  
+  
